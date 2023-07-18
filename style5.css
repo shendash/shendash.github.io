@@ -30,6 +30,7 @@ main{
     justify-content: space-around;
     flex-wrap: wrap;
     background-color: azure;
+    aling-content: flex-start;
 }
 h4{
     font-size: 30px;
